@@ -1,4 +1,4 @@
-package com.christian.reactspringbootcrudapi;
+package com.christian.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

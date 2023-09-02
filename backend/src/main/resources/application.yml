@@ -1,0 +1,6 @@
+aws:
+  region: ca-central-1
+  dynamodb:
+    endpoint: https://dynamodb.ca-central-1.amazonaws.com
+  secret-key: ${AWS_SECRET_KEY}
+  access-key: ${AWS_ACCESS_KEY}
